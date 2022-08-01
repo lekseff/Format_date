@@ -1,3 +1,7 @@
+![example workflow](https://github.com/lekseff/Format_date/actions/workflows/deploy.yml/badge.svg)
+
+[GitHub Pages](https://lekseff.github.io/Format_date/)
+===
 Форматирование даты публикации
 ===
 
